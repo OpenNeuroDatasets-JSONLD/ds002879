@@ -15,7 +15,7 @@
       "2": "female"
     }
   },
-  "ethnicity_race": {
+  "race": {
     "Description": "How would you describe yourself?",
     "Levels": {
       "1": "American Indian or Alaskan Native",
@@ -24,6 +24,14 @@
       "4": "Native Hawaiian or Other Pacific Islander",
       "5": "White",
       "6": "Other"
+    }
+  },
+  "ethnicity": {
+    "LongName": "Ethnicity",
+    "Description": "Ethnicity of participants",
+    "Levels": {
+      "1": "Hispanic or Latino",
+      "2": "Not Hispanic or Latino"
     }
   },
   "WJ-III_WordID_StS": {
