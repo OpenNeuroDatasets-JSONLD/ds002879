@@ -1,3 +1,6 @@
+1.1.1 2023-01-26
+  - Reuploaded sub-2514_task-VVNonWord_run-02_bold.nii.gz, which was corrupted
+  - Deleted duplicate column from participants.tsv
 1.1.0 2021-08-09
   - Added ethnicity data to participants file
 1.0.2 2021-03-23
