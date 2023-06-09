@@ -5,7 +5,13 @@
   },
   "age": {
     "LongName": "Age",
-    "Description": "Age at first study session"
+    "Description": "Age at first study session",
+    "Annotations": {
+      "IsAbout": {
+        "TermURL": "nb:Age",
+        "Label": ""
+      }
+    }
   },
   "sex": {
     "LongName": "Sex",
@@ -13,6 +19,22 @@
     "Levels": {
       "1": "male",
       "2": "female"
+    },
+    "Annotations": {
+      "IsAbout": {
+        "TermURL": "nb:Sex",
+        "Label": ""
+      },
+      "Levels": {
+        "1": {
+          "TermURL": "snomed:248153007",
+          "Label": ""
+        },
+        "2": {
+          "TermURL": "snomed:248152002",
+          "Label": ""
+        }
+      }
     }
   },
   "race": {
