@@ -10,6 +10,10 @@
       "IsAbout": {
         "TermURL": "nb:Age",
         "Label": ""
+      },
+      "Transformation": {
+        "TermURL": "nb:float",
+        "Label": "float data"
       }
     }
   },
