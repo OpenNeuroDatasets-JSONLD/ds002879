@@ -101,5 +101,15 @@
   "VVWord_run-02_date": {
     "LongName": "Shifted date of aquistion of VVWord_run-02",
     "Description": "Shifted date of aquistion of VVWord_run-02. Dates were shifted -365 to 0 days across subjects to protect privacy"
+  },
+  "participant_id": {
+    "Annotations": {
+      "IsAbout": {
+        "TermURL": "nb:ParticipantID",
+        "Label": ""
+      },
+      "Identifies": "participant"
+    },
+    "Description": "There should have been a description here, but there wasn't. :("
   }
 }
